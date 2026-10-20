@@ -1,0 +1,1 @@
+Rewritten test contribution; controller must not overwrite B.
